@@ -17,7 +17,7 @@
     </head>
     <body class="antialiased">
         <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
-            <div class="ml-4 text-lg leading-7 font-semibold">
+            <div class="ml-4 text-lg leading-7 text-gray">
                 <h1 class="text-gray-900 dark:text-white">
                     Reihan Amru
                 </h1>
